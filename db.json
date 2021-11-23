@@ -1,16 +1,16 @@
 {
-    "esn":"2­3015240",
+    "esn":"2-3015240",
     "payload":"0xee296c38bfdb5a0000",
     "position":{
         "type":"Point",
         "coordinates":[90.2013158798218, 29.1253566741943]
     },
     “asset”: {
-        “id”: 126957,
-        “name”:“20ft CCU BBB789”,
-        “number”: “BBB789”,
-        “account :{
-            “name”:”ABC Offshore Rentals”
+        "id": 126957,
+        "name":"20ft CCU BBB789",
+        "number": "BBB789",
+        "account" :{
+            "name":"ABC Offshore Rentals"
         }
     },
     "status": {
@@ -22,5 +22,5 @@
         "ignition":"false",
         "battery_status":"true",
     },
-    "timestamp":"2015­06­04T16:16:26Z"
+    "timestamp":"2015-06-04T16:16:26Z"
 }
